@@ -14,6 +14,8 @@ A Machine Learning Project in python for prediction of sales of various products
 
 ## Analysis Framework
 
+
+
 - Data Gathering: Collected the releveant data from SimpliLearn Course Resources into the MS Excel
 - Data Cleaning: The process included removal of null values, removal of noise values and removal of unnecesssary columns
 - Data Preprocessing: This process included outlier removal, label encoding, splitting the data into training and testing and standardization
